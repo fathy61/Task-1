@@ -152,7 +152,7 @@ nav {
 /* ------------ hero ------------ */
 
 .hero {
-    background-image: url("/images/hero.png");
+    background-image: url("images/hero.png");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -278,7 +278,7 @@ nav {
 /* ------------ Power ------------ */
 
 .power {
-    background-image: url(/images/8116\ 1.png);
+    background-image: url("images/8116\ 1.png");
     background-size: cover;
     background-position: center;
     height: 505px;
@@ -374,7 +374,7 @@ nav {
 /* ------------ Repairs ------------ */
 
 .repairs {
-    background-image: url(/images/repairs.png);
+    background-image: url("images/repairs.png");
     height: 505px;
     display: flex;
     align-items: center;
